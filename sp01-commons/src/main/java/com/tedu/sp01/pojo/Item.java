@@ -9,11 +9,11 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor 
 public class Item {
 	/*
-	 * ╪сакв╒йм
+	 * б╪ц⌠ц│ц▀ц≈б╒ц┼ц█
 	 */
 	private Integer id;
 	private String name;
 	private Integer number;
 	
-	//1111111
+	//222222
 }
